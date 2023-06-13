@@ -1,0 +1,40 @@
+{
+    "name": "Suhney Ahmadi",
+    "tagline":"Bridging Business and Technology with Innovative Web Development and AI Expertise",
+    "email": "suhney.ahmadi7@gmail.com",
+    "phone": "732-500-8775",
+    "address": "79 Winding Brook Drive Matawan NJ",
+    "socialLinks":{
+        "linkedin":"https://www.linkedin.com/in/suhney-ahmadi/",
+        "twitter":"https://twitter.com/",
+        "github": "https://github.com/Suhney23"
+    },
+    "objective": "A computer and business graduate looking to use my knowledge and skills to contribute to an organization",
+    "education":[
+        {
+            "degree": "B.S. in Computing and Businesss",
+            "institution": "New Jersey Institute of Technology",
+            "years": "2018-2022"
+        }
+    ],
+
+    "experience":[
+        {
+            "jobTitle": "Technology Intern",
+            "company": "Fiserv",
+            "years": "JUN 2022 - AUG 2022"
+        },
+        {
+            "jobTitle": "Technology Analyst",
+            "company": "Fiserv",
+            "years": "JAN 2023 - Present"
+        },
+        {
+            "jobTitle": "Teacher's Assistant",
+            "company": "New Jersey Institute of Technology",
+            "years": "JAN 2023 - Present"
+        }
+    ],
+
+    "skills": ["Python","Java", "C++", "HTML", "CSS","JavaScript","Angular","Spring Boot", "SQL", "Git"]
+}
